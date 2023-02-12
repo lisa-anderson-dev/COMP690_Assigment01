@@ -34,13 +34,13 @@ let perimeter = 2 * (length + width);
 
 /*
 let strFirstName;
-var lastName;
+let lastName;
 let strAddress;
-var city;
+let city;
 let strState;
-var zipCode;
+let zipCode;
 let intYourAge;
-var referralSource;
+let referralSource;
 let blnMayWeContactYou;
 */
 
